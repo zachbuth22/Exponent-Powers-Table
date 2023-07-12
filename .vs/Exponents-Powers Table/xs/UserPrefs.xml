@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DE3CDC63-2977-403D-B55D-084421756491}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exponents-Powers Table/Program.cs">
+    <Files>
+      <File FileName="Exponents-Powers Table/Program.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exponents-Powers Table" expanded="True">
+            <Node name="Exponents-Powers Table">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Exponents-Powers_220Table FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
